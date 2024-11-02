@@ -1,0 +1,61 @@
+projectName: Fraud Decisioning glossary
+jsonFilePath: ./input.json
+baseUrl: https://sift.com
+portalHeading: Welcome to the Fraud Decisioning glossary
+portalDescription: >-
+  Explore the intricacies of fraud decisioning and how Sift empowers businesses
+  to combat fraud effectively.
+portalTitle: Fraud Decisioning Insights
+searchPlaceholder: Search for terms related to fraud decisioning
+useAlphabetsCategory: true
+homeLink: https://sift.com/
+logoLink: https://sift.com/
+ctaText: Get Started
+aboutLink: https://sift.com/company
+productsLink: https://sift.com/platform
+logoImgUrl: https://sift.com/logo.png
+ctaLink: https://sift.com/demo
+copyrightText: © 2024 Sift Science, Inc. All rights reserved.
+faviconUrl: https://sift.com/favicon.ico
+googleTagManagerId: GTM-PF53KPG
+pagesTitle:
+  prefix: ''
+  suffix: ''
+categoryPagesTitle:
+  prefix: ''
+  suffix: ''
+templateRoot:
+  - ./templates
+  - ./templates
+homeTemplatePath: ./templates/homePageTemplate.ejs
+categoryTemplatePath: ./templates/categoryTemplate.ejs
+pageTemplatePath: ./templates/pagesTemplate.ejs
+outputDir: ./output
+socialLinks:
+  - platform: YouTube
+    url: https://www.youtube.com/@getsift
+  - platform: LinkedIn
+    url: https://www.linkedin.com/company/getsift/
+  - platform: Instagram
+    url: https://www.instagram.com/get_sift/
+  - platform: Twitter
+    url: https://twitter.com/GetSift
+  - platform: Facebook
+    url: https://www.facebook.com/GetSift/
+theme:
+  primaryColor: '#FF3B84'
+  secondaryColor: '#000000'
+  backgroundColor: '#F5F3F5'
+  textColor: '#FFFFFF'
+  accentColor: '#FF3B84'
+fonts:
+  - family: Inter
+    weights:
+      - 400
+      - 500
+      - 600
+  - family: Titillium Web
+    weights:
+      - 400
+      - 500
+      - 600
